@@ -1,0 +1,1 @@
+- [Deploying-NGINX-as-API-gateway_2021-12-20.pdf](./Deploying-NGINX-as-API-gateway_2021-12-20.pdf)
