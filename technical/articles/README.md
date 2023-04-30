@@ -7,3 +7,4 @@
 
 - [How event-driven architecture solves modern web app problems](https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/)
 - [Technology Lifecycle](https://slack.engineering/technology-lifecycle)
+- [What complex systems can teach us about building software](https://sookocheff.com/post/systems/what-complex-systems-can-teach-us-about-building-software)
