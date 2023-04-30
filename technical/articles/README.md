@@ -6,3 +6,4 @@
 - [Shopify's Architecture to handle 80K RPS Celebrity Sales • Simon Eskildsen • GOTO 2017](https://www.youtube.com/watch?v=N8NWDHgWA28)
 
 - [How event-driven architecture solves modern web app problems](https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/)
+- [Technology Lifecycle](https://slack.engineering/technology-lifecycle)
